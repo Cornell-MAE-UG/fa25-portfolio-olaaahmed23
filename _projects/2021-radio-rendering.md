@@ -2,7 +2,7 @@
 layout: project
 title: MAE 4272 Blade Design Project
 description: Advanced CAD Project
-technologies: [Solidworks, MATLAB, LabView]
+technologies: [Solidworks, MATLAB, LabVIEW, Excel]
 image: /assets/images/blade-cad.jpg
 ---
 
@@ -10,7 +10,7 @@ In MAE 4272, our team designed and experimentally tested a small-scale wind turb
 
 The blade geometry was developed using **Blade Element Momentum theory** and optimized for a **target operating speed of 1300 RPM**. After completing an airfoil trade study, we selected the **E387 airfoil** based on lift-to-drag performance and manufacturability. The blade was **discretized into 40 radial sections**, and optimal **chord and pitch distributions were calculated as functions of radius** to maximize power extraction at 5 m/s in **MATLAB**. To satisfy system limits, the chord distribution was iteratively scaled until the maximum predicted torque remained **below 0.035 N·m across all wind speeds**. Structural analysis accounting for aerodynamic bending and centrifugal loading identified the maximum combined stress at the blade root of 31 MPa, which remained below the material yield limit with a factor of safety of 1.42. Final chord and pitch profiles were fit with **third-order polynomials** and used to generate the CAD in **SolidWorks**.
 
-![Actual picture of the blades]({{ "/assets/images/blade-photo.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Actual picture of the blades]({{ "/assets/images/blade-photo.jpg" | relative_url }}){: .inline-image-r style="width: 300px; border: 3px solid #000; border-radius: 5px;"}
 
 Experimental testing was conducted in a wind tunnel at 15 Hz to map power output across wind speeds from **0 to 9.0 m/s**. At each wind speed, the torque brake voltage was incrementally increased until stall while **RPM, torque, and power** were recorded using **LabVIEW**. After stall, the torque brake was reset to 0 V, the wind speed was increased to the next operating point, and the procedure was repeated. The turbine began rotating at 3.2 m/s and remained below the 0.035 N·m torque limit throughout testing. At **9.0 m/s**, the torque brake reached its **12 V** limit before stall occurred. Measured power curves were post-processed in **MATLAB and Excel** and integrated over the Weibull distribution, yielding an **average measured power of approximately 0.10 W**. These results were compared against theoretical predictions and the **Betz-limit-based maximum power** to evaluate blade efficiency and identify sources of performance loss.
 
