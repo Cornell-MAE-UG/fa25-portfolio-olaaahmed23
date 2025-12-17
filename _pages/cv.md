@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [ofa4@cornell.edu](mailto:ofa4@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ofa4@cornell.edu](mailto:ofa4@cornell.edu) | | | **Phone:** +1 (609)-379-1070
 
 ---
 
@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.4/4.0 | Graduation: Month, Year
 
 - **[High School Name]**  
   *High School Diploma*  
