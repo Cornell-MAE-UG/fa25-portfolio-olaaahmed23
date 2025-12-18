@@ -1,9 +1,9 @@
 ---
 layout: project
 title: MAE 4300
-description: Ethics 
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+description: Holistic analysis of the Boeing 737 Max incident 
+technologies: [Come back and add]
+image: /assets/images/Boeing.jpeg
 ---
 
 
