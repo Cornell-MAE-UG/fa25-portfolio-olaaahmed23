@@ -20,16 +20,46 @@ The **technical root** of the crisis was the **MCAS design**, which introduced a
 
 At the **individual level**, internal warnings were raised early. Engineers voiced concerns regarding the single-sensor risk and the lack of redundancy, yet these concerns were minimized to protect production timelines. Test pilot warnings also existed but did not trigger the necessary deep-level design reviews. These decisions show a breakdown in professional responsibility where individual expertise was overridden by schedule pressure.
 
-The c**orporate culture** at Boeing favored speed-to-market to compete with the Airbus A320neo. This led to a "no extra training" incentive policy where Boeing prioritized cost-savings for airlines over operational preparedness. Furthermore, the FAA's delegation of oversight to Boeing employees blurred the boundaries between the regulator and the manufacturer, creating a culture of "regulatory capture."
+The **corporate culture** at Boeing favored speed-to-market to compete with the Airbus A320neo. This led to a "no extra training" incentive policy where Boeing prioritized cost-savings for airlines over operational preparedness. Furthermore, the FAA's delegation of oversight to Boeing employees blurred the boundaries between the regulator and the manufacturer, creating a culture of "regulatory capture."
+
+The ethical conflict in this case often stems from how key terms are defined. For Boeing and the FAA, **Safety** was frequently defined as *"regulatory compliance."* However, for the victims' families and the engineering community, safety means the "prevention of foreseeable catastrophic risk." Similarly, **Accountability** for Boeing meant *cooperation with legal investigations*, whereas for the public, it meant an honest acknowledgment of design wrongdoing. These definitional differences explain why Boeing could argue they followed procedure, while the public viewed the results as a gross ethical failure.
 
 
-This is how I solved the problem:
+## Ethical Analysis of Core Issues
+---
+Using the ASME Code of Ethics, we can break down the five primary conflicts that defined this incident:
 
-```python
-    some code = 10;
-    plot();
-```
+### 1. Cost/Schedule vs. Testing & Validation
+* **Stakeholders:** Passengers, pilots, Boeing management, and shareholders.
+* **Relevant Canons:** Canon 1 (Public Safety), Canon 4 (Faithful Agent).
+* **Conflict:** Business pressure to hit deadlines versus conservative validation standards.
+* **Hierarchy Decision:** Canon 1 is paramount and always overrides Canon 4 in life-critical systems.
+* **Resolution:** Rushing validation to meet market pressure is ethically wrong because it increases foreseeable risk to human life.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+### 2. Documentation and Transparency
+* **Stakeholders:** FAA regulators, airline operators, and flight crews.
+* **Relevant Canons:** Canon 1, Canon 7 (Truthful Communication).
+* **Conflict:** The desire to protect "company secrets" or avoid training costs versus the duty to provide truthful disclosure for safety.
+* **Hierarchy Decision:** Canon 7 supports Canon 1; misleading documentation creates a secondary safety risk.
+* **Resolution:** Withholding MCAS behavior details from pilot manuals violates Canon 7 and is a fundamental breach of engineering integrity.
 
+### 3. Pilot Training vs. Business Incentives
+* **Stakeholders:** Pilots, passengers, and airline purchasing departments.
+* **Relevant Canons:** Canon 1, Canon 2 (Professional Competence).
+* **Conflict:** Financial incentives to avoid simulator training versus the pilot's need for operational preparedness.
+* **Hierarchy Decision:** Canon 1 overrides corporate competitiveness.
+* **Resolution:** Minimizing training to reduce cost is unacceptable in a system where the computer can override pilot input.
 
+### 4. Regulatory Oversight and Internal Testing
+* **Stakeholders:** The flying public and FAA employees.
+* **Relevant Canons:** Canon 1, Canon 7 (Verification Integrity).
+* **Conflict:** Limited FAA resources versus the duty for independent verification.
+* **Hierarchy Decision:** Canon 1 demands independent validation when stakes are catastrophic.
+* **Resolution:** Reliance on manufacturer self-testing alone is ethically deficient when it reduces meaningful oversight.
+
+### 5. Internal Objections and Whistleblowing
+* **Stakeholders:** Individual engineers and the general public.
+* **Relevant Canons:** Canon 1 vs. Canon 4.
+* **Conflict:** Job security and organizational loyalty versus the duty to protect the public.
+* **Hierarchy Decision:** Canon 1 is the primary canon; loyalty to an employer cannot outrank public safety.
+* **Resolution:** Engineers had an ethical duty to escalate concerns; the failure of the organization to listen necessitated external whistleblowing.
