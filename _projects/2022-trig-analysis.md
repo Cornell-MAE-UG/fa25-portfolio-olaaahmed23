@@ -6,13 +6,13 @@ technologies: [Come back and add]
 image: /assets/images/Boeing.jpg
 ---
 
----
-Goal of this Ethical Analysis 
+
+## Goal of this Ethical Analysis 
 ---
 Throughout the semester, we were tasked with completing a holistic analysis of the Boeing 737 Max incident. This case study examines the intersection of aggressive corporate competition, the failure of the Maneuvering Characteristics Augmentation System (MCAS), and the erosion of regulatory oversight that led to the loss of 346 lives
 
---- 
-Context of the Boeing 737 Max Incident 
+
+## Context of the Boeing 737 Max Incident 
 ---
 A holistic analysis requires looking at the incident through three distinct lenses: technical behavior, individual actions, and organizational culture. I will explore the material, technical, individual, and organizational facts in this section.
 
