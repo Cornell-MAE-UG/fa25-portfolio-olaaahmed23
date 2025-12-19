@@ -63,3 +63,27 @@ Using the ASME Code of Ethics, we can break down the five primary conflicts that
 * **Conflict:** Job security and organizational loyalty versus the duty to protect the public.
 * **Hierarchy Decision:** Canon 1 is the primary canon; loyalty to an employer cannot outrank public safety.
 * **Resolution:** Engineers had an ethical duty to escalate concerns; the failure of the organization to listen necessitated external whistleblowing.
+
+## Practical Constraints and Prevention
+---
+While the ethical duty is clear, several constraints prevented the "ideal" action:
+* **Organizational Retaliation:** Fear of job loss or being blacklisted for challenging leadership.
+* **Information Silos:** Engineers often lacked a full "system-level" view of the risks.
+* **Timeline Pressure:** Shareholder demands for a rapid rollout created a "normalization of deviance."
+
+### Prevention Strategies
+* **Individual:** Implement mandatory "moral courage" training and clarify that Canon 1 > Canon 4.
+* **Organizational:** Establish internal safety review boards with the authority to halt production without fear of retaliation.
+* **Systemic:** Require independent, third-party validation for all flight-critical automated systems.
+
+## Conclusion
+---
+The 737 MAX case illustrates how ethical failure can come from a chain of "reasonable" business decisions that, together, violate the profession’s most basic duty. Under ASME ethics, the hierarchy is clear: public safety is paramount, and transparency is not optional. Accountability requires designing for failure, communicating truthfully, and ensuring oversight is real rather than symbolic.
+
+## References
+---
+1. U.S. House Committee on Transportation & Infrastructure, *Final Committee Report on the Boeing 737 MAX* (Sept. 2020).
+2. BBC, “Boeing Chief Fired but 737 Concern Persists” (Dec. 2019).
+3. The Guardian, “Designed by Clowns” (Jan. 2020).
+4. PBS Frontline, “Boeing’s Fatal Flaw” (Sept. 2021).
+5. Federal Aviation Administration, “Summary of the FAA’s Review of Boeing 737 MAX” (Aug. 2020).
